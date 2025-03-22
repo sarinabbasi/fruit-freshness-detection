@@ -44,7 +44,7 @@ Using a dataset of labeled fruit images (apples, bananas, oranges — both fresh
 ## 📂 Dataset & Model
 
 - 🔗 [Dataset: Fruits – Fresh and Rotten (Kaggle)](https://www.kaggle.com/datasets/sriramr/fruits-fresh-and-rotten-for-classification)
-- 🔗 [Trained Model (Kaggle)](https://www.kaggle.com/models/sarinaabbasi/fruit-vision-freshness/)
+- 🔗 [Trained Model (Kaggle)](https://limewire.com/d/65lnI#Jm7SM8fHNj)
 
 ---
 
